@@ -1,5 +1,5 @@
 
-![Hero image](https://scontent-dub4-1.xx.fbcdn.net/v/t31.18172-8/p180x540/15676294_1801335756792190_9128626988685355872_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=c6adEI721TMAX-nqblh&_nc_ht=scontent-dub4-1.xx&oh=00_AT-jGN3DPFGPRpSj3JW2D0MRX3VFtBsCQFbfFmPLWCRtBg&oe=620C5B7D)
+![Hero image](https://www.facebook.com/purplehippowebstudio/photos/a.1711938865731880/1801335756792190/)
 
 [![GitHub followers](https://img.shields.io/github/followers/ellf?logo=GitHub&style=for-the-badge)](https://github.com/ellf)
 [![GitHub Stars](https://img.shields.io/github/stars/ellf?logo=github&style=for-the-badge)](https://github.com/ellf)

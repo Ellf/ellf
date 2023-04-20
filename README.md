@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Ellf (a character name from World of Warcraft many years ago)
+# 👋 Hi, I'm Ellf
+(a character name from World of Warcraft many years ago)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+also+go+by+the+name+Remirol)](https://git.io/typing-svg)
-
-
+I'm a self-employed Full-Stack (somewhat) developer from Scotland, living in Ireland. I'm still learning backend stuff and thinking about that move to TypeScript.
 
 # 📊 My Stats
 

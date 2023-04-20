@@ -1,7 +1,6 @@
-[![GitHub followers](https://img.shields.io/github/followers/ellf?logo=GitHub&style=for-the-badge)](https://github.com/ellf)
-[![GitHub Stars](https://img.shields.io/github/stars/ellf?logo=github&style=for-the-badge)](https://github.com/ellf)
+# 👋 Hi, I'm Ellf (a character name from World of Warcraft many years ago)
 
-# 👋 Hi!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+also+go+by+the+name+Remirol)](https://git.io/typing-svg)
 
 
 

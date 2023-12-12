@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ellf
 (a character name from World of Warcraft many years ago)
 
-I'm a self-employed Full-Stack (somewhat) developer from Scotland, living in Ireland. I'm still learning backend stuff and thinking about that move to TypeScript.
+I'm a self-employed Full-Stack developer from Scotland, living in Ireland.
 
 # 📊 My Stats
 

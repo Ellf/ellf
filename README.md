@@ -10,9 +10,6 @@ I'm a passionate Full-Stack Developer based in Ireland, originally from the sere
 - 🚀 **Tech Stack:** I work with a diverse set of technologies, always exploring new tools and frameworks.
 - 📈 **Entrepreneurial Spirit:** As a self-employed developer, I embrace challenges and innovate solutions.
 
-## 📊 My Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ellf&theme=radical&count_private=true)
-
 ## 💼 Skills
 
 ### Languages and Tools:

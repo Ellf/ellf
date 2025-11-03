@@ -2,35 +2,76 @@
 
 > **A bit of lore:** *The name "Ellf" hails from my adventures in the World of Warcraft universe many moons ago.*
 
-I'm a passionate Full-Stack Developer based in Ireland, originally from the serene landscapes of Scotland. Crafting digital experiences and solving complex problems are what make my coding journey an exciting adventure.
+I'm a Full-Stack Developer based in Ireland, originally from the Scotland. I spend my 20's and 30's as an officer with Royal Caribbean Cruises (and others) before working with Blizzard Entertainment Ireland as a Game Master then as a Service Level Coordinator before starting my own web development studio. I now crafting digital experiences and solve complex problems making my coding journey an exciting adventure.
 
 ## 🚀 About Me
 - 🧑‍💻 **Full-Stack Developer:** I bring ideas to life with my coding skills, from the back end to the front.
-- 🌍 **Location:** From Scotland's lowlands to Ireland's dynamic tech scene, I find inspiration everywhere.
+- 🌍 **Location:** From Scotland's lowlands I now live on the west coast of Ireland. Wet and Windy!
 - 🚀 **Tech Stack:** I work with a diverse set of technologies, always exploring new tools and frameworks.
 - 📈 **Entrepreneurial Spirit:** As a self-employed developer, I embrace challenges and innovate solutions.
+- 
 
 ## 💼 Skills
 
-### Languages and Tools:
-- **Frontend:** React.js, Bootstrap, Vue.js, Handlebars, Svelte/Sveltekit
-- **Backend:** Node.js, Express, Svelte/Sveltekit
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, WebStorm, Visual Studio Code
-
-> Skills are a glimpse of what I can do. The real magic happens when we collaborate on projects!
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  </a>
+  <a href="https://teachable.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Teachable-173F53?style=for-the-badge&logo=teachable&logoColor=white" alt="Teachable">
+  </a>
+  <a href="https://www.shopify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify">
+  </a>
+  <a href="https://www.squarespace.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="Squarespace">
+  </a>
+  <a href="https://svelte.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+</p>
 
 ## 🌟 Featured Projects
 
-- **Witness:** A social proof application for the Teachable eLearning platform
+- **[Witness](https://witness.at):** A social proof application for the Teachable eLearning platform.
+- **[Reviewer](https://reviewer.at):** A easy way to get 5⭐ reviews from your students on your Teachable school.
 
 > Discover more about my projects [here](https://github.com/ellf?tab=repositories).
 
 ## 📫 Let's Connect!
-If you're interested in collaborating on a project or just want to say hi, feel free to reach out!
 
-- **Email:** redacted
-- **LinkedIn:** [https://www.linkedin.com/in/tomlorimer](https://www.linkedin.com/in/tomlorimer/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/tomlorimer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="http://purplehippo.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-purplehippo.io-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</p>
 
-Let's make something awesome together! 🌟
+[![Ellf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellf&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ellf&theme=gruvbox&row=1)](https://github.com/ryo-ma/github-profile-trophy)

@@ -13,20 +13,20 @@ I'm a Full-Stack Developer based in Ireland, originally from the Scotland. I spe
 
 ## 💼 Skills
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank">
+<p  style="text-decoration: none;" align="left">
+  <a style="text-decoration: none;" href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   </a>
-  <a href="https://nextjs.org/" target="_blank">
+  <a style="text-decoration: none;" href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   </a>
-  <a href="https://redis.io/" target="_blank">
+  <a style="text-decoration: none;" href="https://redis.io/" target="_blank">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   </a>
-  <a href="https://nodejs.org/" target="_blank">
+  <a style="text-decoration: none !important;" href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   </a>
-  <a href="https://expressjs.com/" target="_blank">
+  <a style="text-decoration: none;" href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
   </a>
   <a href="https://teachable.com/" target="_blank">

@@ -69,9 +69,3 @@ I'm a Full-Stack Developer based in Ireland, originally from the Scotland. I spe
     <img src="https://img.shields.io/badge/Website-purplehippo.io-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
-
-[![Ellf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellf&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ellf&theme=gruvbox&row=1)](https://github.com/ryo-ma/github-profile-trophy)

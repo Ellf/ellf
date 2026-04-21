@@ -2,7 +2,7 @@
 
 > **A bit of lore:** *The name "Ellf" hails from my adventures in the World of Warcraft universe many moons ago.*
 
-I'm a Full-Stack Developer based in Ireland, originally from the Scotland. I spend my 20's and 30's as an officer with Royal Caribbean Cruises (and others) before working with Blizzard Entertainment Ireland as a Game Master then as a Service Level Coordinator before starting my own web development studio. I now craft digital experiences and solve complex problems making my coding journey an exciting adventure.
+I'm a Full-Stack Developer based in Ireland, originally from Scotland. I spend my 20's and 30's as an officer with Royal Caribbean Cruises (and others) before working with Blizzard Entertainment Ireland as a Game Master then as a Service Level Coordinator before starting my own web development studio. I now craft digital experiences and solve complex problems making my coding journey an exciting adventure.
 
 ## 🚀 About Me
 - 🧑‍💻 **Full-Stack Developer:** I bring ideas to life with my coding skills, from the back end to the front.
